@@ -1,0 +1,14 @@
+Package: electoratenames
+Type: Package
+Title: Ensure Electorate Names Are Spelled Correctly
+Version: 0.1.0
+Author: Tom McMahon
+Maintainer: Tom McMahon <thmcmahon@gmail.com>
+Description: This package contains two functions to ensure electorate names are spelled correctly, and to correct common misspellings of electorate names.
+License: BSD
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Imports:
+  stringr,
+  glue
